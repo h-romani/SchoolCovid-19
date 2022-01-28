@@ -1,4 +1,3 @@
-#Author(s): Jake McAuley
 import sys
 import csv
 #command line format: 
