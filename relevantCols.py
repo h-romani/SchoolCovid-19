@@ -1,3 +1,4 @@
+#Thanks to Author(s): Jake McAuley, Zaid Al-gayyali, and Mazen Bahgat for shortening this small command-line csv column data 
 import sys
 import csv
 #command line format: 
